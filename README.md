@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jason199101
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in Java, python, linux, rust
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on Rust
 - 📫 How to reach me 
 
 <!---
